@@ -1,0 +1,6 @@
+name=Bauble
+author=sdwfrost
+description=A 1-bit bubble shooter: crank to aim, pop threes, beat the ceiling.
+bundleID=com.sdwfrost.bauble
+version=1.0
+buildNumber=1
