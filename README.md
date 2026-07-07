@@ -6,6 +6,15 @@ matching bubbles before the ceiling presses down on you. An original take on the
 aim-and-pop bubble-puzzle genre, with fully procedural 1-bit art (the six bubble
 types are told apart by **pattern**, not colour — no external assets).
 
+See the **[player's manual](MANUAL.md)** for the full rules, scoring, and tips.
+
+## Play it
+
+Grab a prebuilt `Bauble.pdx.zip` from the [Releases](../../releases) page (or the
+`dist/` folder), then sideload it at <https://play.date/account/sideload/> or unzip
+it into the Playdate Simulator — no toolchain required. To build from source
+instead, see [Build](#build) below.
+
 ## Controls
 
 | Playdate | Action |

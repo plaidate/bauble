@@ -54,8 +54,3 @@ function Sfx.die()
     Util.after(0.13, function() saw:playNote(280, 0.4, 0.12) end)
     Util.after(0.26, function() saw:playNote(160, 0.4, 0.25) end)
 end
-
-function Sfx.extraScore()
-    tri:playNote(1047, 0.3, 0.08)
-    Util.after(0.09, function() tri:playNote(1319, 0.3, 0.1) end)
-end
