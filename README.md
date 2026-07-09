@@ -1,5 +1,7 @@
 # Bauble
 
+> Part of **[plAIdate](https://plaidate.github.io)** — AI-built 1-bit games, ports, and engines for the Playdate.
+
 A 1-bit color-matching **bubble shooter** for the [Panic Playdate](https://play.date/):
 crank to aim the launcher, fire bubbles up, and pop clusters of three or more
 matching bubbles before the ceiling presses down on you. An original take on the
