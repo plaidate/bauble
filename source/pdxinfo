@@ -1,6 +1,7 @@
 name=Bauble
-author=sdwfrost
+author=Simon Frost
 description=A 1-bit bubble shooter: crank to aim, pop threes, beat the ceiling.
 bundleID=com.sdwfrost.bauble
 version=0.1
-buildNumber=1
+buildNumber=2
+imagePath=launcher

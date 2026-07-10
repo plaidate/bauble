@@ -26,7 +26,7 @@ smoke: build/smoke/source
 
 build/smoke/source: source/*.lua source/pdxinfo
 	mkdir -p $@
-	cp source/* $@/
+	cp -r source/* $@/
 	sed -i '' 's/^AUTOPILOT = false/AUTOPILOT = true/; s/^SMOKE_EASY = false/SMOKE_EASY = true/' $@/config.lua
 
 clean:
